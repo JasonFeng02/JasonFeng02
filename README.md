@@ -1,5 +1,5 @@
 - 👋 Hi, I’m JasonFeng
-- 👀 interested in AI,CV,robot engineering.
+- 👀 interested in AIGC,CV,robot engineering.
 - 🌱 SRE/Devops
 - 📫 reach me on jasonfeng1113@gmail.com
 
